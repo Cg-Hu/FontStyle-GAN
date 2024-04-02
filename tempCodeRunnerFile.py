@@ -1,0 +1,1 @@
+python main.py --dataset test2 --phase test  --light True
